@@ -1,6 +1,6 @@
 # 💊 PharmEase System
 
-A **Java-based pharmacy management system** with a MySQL backend — developed as a **Software Testing** project at VIT.  
+A **Java-based pharmacy management system** with a MySQL backend — developed as a **Software Testing** project.  
 The project simulates an online pharmacy where patients can search, order, and manage medicines, while admins handle inventory and orders.
 
 ---
