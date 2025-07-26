@@ -41,7 +41,8 @@ The project simulates an online pharmacy where patients can search, order, and m
 
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/eshxl/PharmEase-System.git```
+   git clone https://github.com/eshxl/PharmEase-System.git
+   ```
 
 2. **Open in NetBeans IDE.**
 
